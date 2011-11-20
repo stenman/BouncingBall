@@ -1,0 +1,8 @@
+A program that simulates a bouncing ball.
+
+The idea is that the ball should bounce differently depending on surface of
+the floor, the material the ball is made of, gravity, air resistance and
+some more factors.
+
+This program neither finished nor working as intended. From the beginning it
+was only an experiment in using Java graphics.
